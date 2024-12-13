@@ -1,8 +1,8 @@
 development:
   dialect: postgres
-  database: bookings
+  database: 
   user: postgres
-  password: Science@1992
+  password: 
   host: 127.0.0.1
   pool: 5
 
